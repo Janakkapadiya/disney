@@ -47,6 +47,7 @@ color:white;
 display: flex;
 align-items: center;
 padding: 3px 2px 5px 3px;
+overflow-x:hidden;
 
 `
 const Logo = styled.img`
